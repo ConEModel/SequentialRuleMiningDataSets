@@ -1,0 +1,46 @@
+Contexts Labels:
+
+1=Network Load:Low;
+2=Network Load:Medium;
+3=Network Load:High;
+4=Patient Location:Home;
+5=Patient Location:Old-Age-Home;
+6=Patient Location:Hospital;
+7=Accompanying people:Caregiver;
+8=Accompanying people:Relative;
+9=Accompanying people:None;
+10=Patient Vision:Normal;
+11=Patient Vision:Blind;
+12=Patient Vision:Night Blindness/Poor Vision;
+13=Abnormality Detection:Low;
+14=Abnormality Detection:Medium;
+15=Abnormality Detection:High;
+16=Patient Illness Status:Under Treatment;
+17=Patient Illness Status:Treatment Completed;
+18=Prior Illness:Yes;
+19=Prior Illness:No;
+20=Time of the Day:Day;
+21=Time of the Day:Night;
+22=Patient Condition:Sick;
+23=Patient Condition:Normal;
+24=Patient Condition:Stable;
+25=Online portal:Working;
+26=Online portal:Server Down;
+27=Age:Elderly;
+28=Age:Young;
+29=Test Feasibility at home:Yes;
+30=Test Feasibility at home:No;
+
+
+NFR Conflict Labels:
+
+101=Cost efiicient and Fast processing,
+102=Fast processing and Response Time,
+103=Privacy and Transparency,
+104=Safety and Privacy,
+105=Usability and Response Time,
+106=Safety and Cost Efficiency,
+107=Safety and response time,
+108=Quietness and Response time,
+109=Privacy and Cost efficiency,
+110=Availability and Response Time,
